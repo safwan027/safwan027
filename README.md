@@ -1,6 +1,6 @@
 I am new to Github, So gradually learning the way the app works but one thing is 
 sure that it includes a lot of features for programmers to work with, and cant 
-finish witout congragulating people behing these idea.
+finish without congragulating people behing these idea.
 
 
 <!---
